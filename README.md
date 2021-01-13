@@ -1,0 +1,1 @@
+This is TricoMint's first git project!
